@@ -11,4 +11,6 @@ Then, we link the repo by using the command, git remote add origin git@github.co
 
 And to check whether the connection is there or not, we use the command, git remote -v
 
+And if I don't want to type, git push origin master, everytime to get the repo online, I need to create a upstream, which can be done so, by using the command, git push -u origin master, this will allow me to use the "push" instruction, with just, git push.
+
 
