@@ -5,3 +5,10 @@ Some Text
 to put a repo from a local machine created to the git profile, we use the cmmd, git init
 
 Since I created the repo locally, the git push, cmd doesn't know the "origin", hence we need to create one. The easiest way is by creating one repor in the GitHub.com page..
+
+Then, we link the repo by using the command, git remote add origin git@github.com:Khesehang-Limbu/Repo-2.git //this is the SSH // To add a reference to the Git repo that we created.
+//Here, remote is just something that indicates that something is there but not in the local machine.
+
+And to check whether the connection is there or not, we use the command, git remote -v
+
+
