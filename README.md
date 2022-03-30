@@ -22,3 +22,6 @@ to switch between banches, we need to use the, git checkout name_of_branch
 ## Local Development
 
 1. Branching...
+
+we use git diff name_of_the_branch, cmd to see the changes we made in the other branch, but not to the main one.
+
